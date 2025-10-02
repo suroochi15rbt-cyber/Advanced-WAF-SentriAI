@@ -6,7 +6,7 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 
 ## **How it works**
 
-![WAF Flow](./Hybrid%20WAF_files/WAF%20flow.jpg)
+![WAF Flow](WhatsApp Image 2025-09-22 at 21.41.55_8a9836a0.jpg)
 
 
 ## Features
@@ -17,24 +17,6 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 - ✨ Modern, Responsive UI
 - 📊 Interactive Security Insights
 - 🚀 Fast response time
-
-
-##  Output Screenshots
-
-<p float="left">
-    <img src="./output-screenshots/waf-ss1.png" width="400"/>
-    <img src="./output-screenshots/waf-ss2.png" width="400"/>
-</p>
-
-<p float="left">
-    <img src="./output-screenshots/waf-ss3.png" width="400"/>
-    <img src="./output-screenshots/waf-ss4.png" width="400"/>
-</p>
-
-<p float="left">
-    <img src="./output-screenshots/waf-ss5.png" width="400"/>
-    <img src="./output-screenshots/waf-ss6.png" width="400"/>
-</p>
 
 
 ## Tech Stack
@@ -163,3 +145,4 @@ MIT License
 git add README.md
 git commit -m "Add README.md"
 git push
+
